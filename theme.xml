@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<colorTheme id="3" name="Wilson18Ink" modified="2011-01-23 10:03:53" author="indiehead" website="http://code.google.com/p/vibrant-ink-textmate/">
+<colorTheme id="3" name="Wilson18Ink" modified="2011-01-23 10:03:53" author="Wilson18" website="https://urdev.net/Wilson18/Wilson18Ink">
     <occurrenceIndication color="#616161" />
     <findScope color="#191919" />
     <deletionIndication color="#FF0000" />
@@ -16,13 +16,13 @@
     <methodDeclaration color="#F1C438" />
     <bracket color="#FFFFFF" />
     <number color="#477488" />
-    <string color="#477488" />
+    <string color="#00E8AF" />
     <operator color="#FFFFFF" />
     <keyword color="#EC691E" />
     <staticMethod color="#FFFFFF" />
     <localVariable color="#04FFFC" />
     <localVariableDeclaration color="#04FFFC" />
-    <field color="#357A8F" />
+    <field color="#9800FF" />
     <staticField color="#FFFFFF" />
     <staticFinalField color="#80FF00" />
     <deprecatedMember color="#FFFFFF" />
