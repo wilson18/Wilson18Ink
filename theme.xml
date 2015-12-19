@@ -14,18 +14,18 @@
     <interface color="#87F025" />
     <method color="#F7C527" />
     <methodDeclaration color="#F1C438" />
-    <bracket color="#FFFFFF" />
+    <bracket color="#60FFFA" />
     <number color="#477488" />
     <string color="#00E8AF" />
-    <operator color="#FFFFFF" />
+    <operator color="#60FFFA" />
     <keyword color="#EC691E" />
-    <staticMethod color="#FFFFFF" />
+    <staticMethod color="#60FFFA" />
     <localVariable color="#04FFFC" />
     <localVariableDeclaration color="#04FFFC" />
     <field color="#9800FF" />
-    <staticField color="#FFFFFF" />
+    <staticField color="#60FFFA" />
     <staticFinalField color="#80FF00" />
-    <deprecatedMember color="#FFFFFF" />
+    <deprecatedMember color="#60FFFA" />
     <enum color="#408000" />
     <inheritedMethod color="#E3B735" />
     <abstractMethod color="#F1C436" />
@@ -34,8 +34,8 @@
     <typeParameter color="#CDB1AD" />
     <background color="#191919" />
     <currentLine color="#222220" />
-    <foreground color="#FFFFFF" />
+    <foreground color="#60FFFA" />
     <lineNumber color="#666666" />
     <selectionBackground color="#414C3B" />
-    <selectionForeground color="#FFFFFF" />
+    <selectionForeground color="#60FFFA" />
 </colorTheme>
