@@ -4,11 +4,11 @@ Wilson18Ink is a dark colour theme for eclipse based on Vibrant Ink - made even 
 
 PHP
 ====
-![PHP](https://urdev.net/Wilson18/Wilson18Ink/raw/master/php.png)
+![PHP](https://raw.githubusercontent.com/wilson18/Wilson18Ink/master/php.png)
 
 HTML
 =====
-![HTML](https://urdev.net/Wilson18/Wilson18Ink/raw/master/html.png)
+![HTML](https://raw.githubusercontent.com/wilson18/Wilson18Ink/master/html.png)
 
 
 
